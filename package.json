@@ -1,0 +1,38 @@
+{
+    "name": "angular4-collapsible",
+    "description": "Angular 2 / 4 Materialize CSS collapsible components",
+    "version": "0.0.41",
+    "dependencies": {
+        "@angular/animations": "^4.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edwin0602/angular4-collapsible"
+    },
+    "author": {
+        "name": "edwinman1991",
+        "email": "edwinman1991@gmail.com"
+    },
+    "keywords": [
+        "angular",
+        "angular2",
+        "angular 2",
+        "angular4",
+        "angular 4",
+        "materialize",
+        "materialize-css",
+        "collapsible",
+        "collapsibles"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/edwin0602/angular4-collapsible/issues"
+    },
+    "module": "angular4-collapsible.js",
+    "typings": "angular4-collapsible.d.ts",
+    "peerDependencies": {
+        "@angular/core": "^4.0.0",
+        "rxjs": "^5.1.0",
+        "zone.js": "^0.8.4"
+    }
+}
